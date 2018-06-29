@@ -1,0 +1,14 @@
+Benchmarking Results i7 Win 7 LV2016
+
+0.001254 us/iteration 1E9 iterations - add primitive
+
+0.068649 us/ iteration 1E9 iterations - subVI call
+
+0.001259 us/iteration 1E9 iterations - inline subVI call
+
+0.079540 us/iteration 1E9 iterations - class call
+
+0.008450 us/iteration 1E9 iterations - inline class call
+
+0.008453 us/iteration 1E9 iterations - inline class properties
+
