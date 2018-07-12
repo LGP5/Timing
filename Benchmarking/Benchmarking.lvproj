@@ -12,12 +12,14 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AddSubVI.vi" Type="VI" URL="../AddSubVI.vi"/>
 		<Item Name="AddSubVIInline.vi" Type="VI" URL="../AddSubVIInline.vi"/>
-		<Item Name="Benchmark add primitive.vi" Type="VI" URL="../Benchmark add primitive.vi"/>
 		<Item Name="Benchmark Class call.vi" Type="VI" URL="../Benchmark Class call.vi"/>
+		<Item Name="Benchmark FP indicator.vi" Type="VI" URL="../Benchmark FP indicator.vi"/>
+		<Item Name="Benchmark FP local.vi" Type="VI" URL="../Benchmark FP local.vi"/>
 		<Item Name="Benchmark inline Class call.vi" Type="VI" URL="../Benchmark inline Class call.vi"/>
 		<Item Name="Benchmark inline Class Properties.vi" Type="VI" URL="../Benchmark inline Class Properties.vi"/>
 		<Item Name="Benchmark inline subVI call.vi" Type="VI" URL="../Benchmark inline subVI call.vi"/>
 		<Item Name="Benchmark subVI call.vi" Type="VI" URL="../Benchmark subVI call.vi"/>
+		<Item Name="Benchmarks.txt" Type="Document" URL="../Benchmarks.txt"/>
 		<Item Name="deltaT.vi" Type="VI" URL="../deltaT.vi"/>
 		<Item Name="HiResTime.vi" Type="VI" URL="../HiResTime.vi"/>
 		<Item Name="Math.lvclass" Type="LVClass" URL="../Math.lvclass"/>
